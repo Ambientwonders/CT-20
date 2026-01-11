@@ -1,0 +1,19 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background("skyblue");
+  text("CAPTCHA :(",50,50)
+  textSize(40)
+  circle(25, 30, 50)
+  fill("darkblue")
+  stroke("orange")
+  circle (400, 100, 100)
+  triangle(50, 25, 30, 10, 50, 50)
+  stroke("white")
+  triangle(100, 25, 50, 10, 50, 1)
+  fill("green")
+  circle(200,200,200)
+  circle(200,200,50)
+}
