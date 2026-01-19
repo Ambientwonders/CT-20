@@ -1,0 +1,48 @@
+
+This week I felt a bit more comfortable with things like making shapes. I feel like I'm just starting to touch the alphabet - not sure what so many
+of the letters mean, or how to recall them again even once I have seen what they mean (do) in action, 
+but I'm trying to let the process be what it is and not expect to understand already what I do not yet know or am only starting to
+visualize.
+
+One thing I'm working on is the way that works best for me to organize and recall information.
+Since this feels like learning a language, I need to figure out
+what kind of structure works best for me.
+
+Overall, I feel like I know more than I did last week.
+
+
+Notes:
+
+
+“In reality, tools and resources alone cannot be democratic.” (p. 57, processing manual) - this makes sense because once they exist
+they exist in the world that surrounds them, shaped by the systems they exist in, shaped by those who exist in the systems that they themselves
+exist in...
+
+"No one likes to be criticized, but everyone
+loves to be understood."(p.58, processing manual) - this stands out to me as being so central to so much in the work that I do and
+the things I engage with that matter to me.
+
+------
+
+
+Scope = scope of a project, managing scope, how many things do you do, etc.
+also, what parts of the program have access to the program. 
+
+let, const = set a variable 
+older tutorials: var
+// at beginning of a line comments it out, so it doesn’t run (aka like a way to add a comment)
+
+you can store numbers in variables (integers = whole, floats = decimals)
+strings are text that is surrounded by quotes (“shoe”)
+array = a list of things surrounded by brackets 
+
+[ ] means there is a list
+
+main type you work with in p5.js is an object, which use {}
+
+in HSB vs. RGB mode, you can change the color in a dynamic way without changing how bright or saturated the color is
+
+properties can be words, values can be any other thing
+
+Questions:
+what does webGL mean again?
